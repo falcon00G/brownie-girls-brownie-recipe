@@ -1,0 +1,24 @@
+body {
+  background-image: url("http://linedpapers.com/wp-content/uploads/2021/01/8b803a5cc78816eb938269e569f3b8b8.jpg");
+  background-size: 100% auto;
+}
+
+h1 {
+  padding-top:450px;
+  font-family: 'Caveat', cursive;
+}
+ul {
+  font-family: 'Caveat', cursive;
+  font-size: 25px;
+  padding-bottom:3px;
+}
+ol {
+  font-family: 'Caveat', cursive;
+  font-size: 25px;
+  padding-bottom: 3px;
+}
+p {
+  font-family: 'Caveat', cursive;
+  font-size: 20px;
+  color: #00009e;
+}
